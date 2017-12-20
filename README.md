@@ -1,1 +1,1 @@
-# Map_Shit
+Application of A* Search in game map!
